@@ -16,4 +16,3 @@
 - [x] compress each file
 - [x] move the compressed files in 'archive' folder
 - [x] make a cron job to run the script everyday
-- [x] give permission to the script to execute
