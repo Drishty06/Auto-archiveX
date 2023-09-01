@@ -8,6 +8,7 @@
 
 * if in a particular directory, a server is producing large log files sized in GBs then after a certain point of time, it will run out of space and to avoid this this script is helpful.
 
+
 ### Steps
 
 [.] Provide the path of directory
