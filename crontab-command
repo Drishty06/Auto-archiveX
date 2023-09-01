@@ -1,0 +1,5 @@
+crontab -e
+-- INSERT --
+
+# running this script everyday and 01:05
+05 01 * * * //home/drishty/Desktop/archiveX/file-archive.sh
