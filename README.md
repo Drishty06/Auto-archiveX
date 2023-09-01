@@ -9,11 +9,11 @@
 * if in a particular directory, a server is producing large log files sized in GBs then after a certain point of time, it will run out of space and to avoid this this script is helpful.
 ### Steps
 
-- [ ] Provide the path of directory
-- [ ] Check if the directory is present or not
-- [ ] Create 'archive' folder if not already present
-- [ ] find all the files with size more than 200 mb
-- [ ] compress each file
-- [ ] move the compressed files in 'archive' folder
-- [ ] make a cron job to run the script everyday
-- [ ] give permission to the script to execute
+- [x] Provide the path of directory
+- [x] Check if the directory is present or not
+- [x] Create 'archive' folder if not already present
+- [x] find all the files with size more than 200 mb
+- [x] compress each file
+- [x] move the compressed files in 'archive' folder
+- [x] make a cron job to run the script everyday
+- [x] give permission to the script to execute
